@@ -11,5 +11,5 @@ HTML, CSS e JavaScript.
 ## O que aprendi ao desenvolver o projeto:
 Aprendi a fazer degradê de cores, usando o CSS; aprendi a receber dados e fazer operações com eles; aprendi a mostrar uma mensagem, avisando o usuário esqueceu de inserir dados (como o sinal da operação ou um dos operadores).
 
-## Link do repositório do GitHub:
-https://github.com/PedroHMSilva929/Calculadora
+## Como ficou o projeto:
+![calculadora](https://user-images.githubusercontent.com/83307765/197417774-195b6a5c-23c2-4832-b9c0-8ecbb19fea28.png)
